@@ -42,15 +42,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-| Platform | Architecture / Type | Pricing (Starting Tier) | Free Tier Limits / Free Trial Details |
-| :--- | :--- | :--- | :--- |
-| **[Contentful](https://www.contentful.com/)** | API-first Headless (Cloud Database) | Starts at **/mo** (Lite / Basic Plan) | **Free forever plan**: Up to 10 users, 2 roles, 2 locales, 1 Starter Space, 100,000 API calls/month, and 50 GB CDN bandwidth/month |
-| **[TinaCMS (TinaCloud)](https://tina.io/)** | Git-based CMS (GraphQL + Git sync) | Starts at **/mo** (Team Plan) | **Free forever plan**: Up to 2 users, 500 assets/month, real-time visual editing, and Git sync |
-| **[CloudCannon](https://cloudcannon.com/)** | Git-based CMS (Direct Git commits) | Starts at **/mo** (billed annually) or **/mo** (Standard Plan) | **21-day free trial**: Full Standard Plan features, unlimited test sites on .cloudvent.net domains, no credit card required |
-| **[Sanity](https://www.sanity.io/)** | API-first Headless (Content Lake) | Starts at **/seat/mo** (Growth Plan) | **Free forever plan**: Up to 20 user seats (unlimited free viewers), 2 public datasets, 10,000 documents, 1M API requests/month, and 5M CDN requests/month |
-| **[Strapi Cloud](https://strapi.io/)** | Hosted Headless CMS (PostgreSQL / API) | Starts at **/mo** (billed annually) or **/mo** (Starter Plan) | **Free forever (Self-hosted Community Edition)**: Unlimited content and users when self-hosting; Strapi Cloud has no cloud free plan or cloud trial, but includes a **30-day trial** for self-hosted Enterprise features |
-| **[Storyblok](https://www.storyblok.com/)** | API-first Headless (Component-based) | Starts at **.75/mo** (billed annually) or **/mo** (Growth Plan) | **Free forever plan**: 1 user seat (expandable to 2), 1 space, 100 GB traffic/month, 1M API requests/month, 2 locales, and Visual Editor access |
-| **[Prismic](https://prismic.io/)** | API-first Headless (Slice Machine) | Starts at **/mo** (Starter Plan for up to 3 users) | **Free forever plan**: 1 user seat, 2 locales, 100 GB CDN bandwidth/month, unlimited API requests, and Slice Machine visual editor access |
+| Platform | Company Scale (Valuation / Revenue) | Architecture / Type | Pricing (Starting Tier) | Free Tier Limits / Free Trial Details |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Contentful](https://www.contentful.com/)** | **.0B Valuation** (~ ARR / + funding) | API-first Headless (Cloud Database) | Starts at **/mo** (Lite / Basic Plan) | **Free forever plan**: Up to 10 users, 2 roles, 2 locales, 1 Starter Space, 100K API calls/month, and 50 GB CDN bandwidth/month |
+| **[Sanity](https://www.sanity.io/)** | **~ Valuation** (~ ARR / + funding) | API-first Headless (Content Lake) | Starts at **/seat/mo** (Growth Plan) | **Free forever plan**: Up to 20 user seats (unlimited free viewers), 2 public datasets, 10,000 documents, 1M API requests/month, 5M CDN requests/month |
+| **[Storyblok](https://www.storyblok.com/)** | **~ Valuation** (~ ARR /  funding) | API-first Headless (Component-based) | Starts at **.75/mo** (billed annually) or **/mo** (Growth Plan) | **Free forever plan**: 1 user seat (expandable to 2), 1 space, 100 GB traffic/month, 1M API requests/month, 2 locales, and Visual Editor access |
+| **[Strapi Cloud](https://strapi.io/)** | **~ Valuation** (~ ARR /  funding) | Hosted Headless CMS (PostgreSQL / API) | Starts at **/mo** (billed annually) or **/mo** (Starter Plan) | **Free forever (Self-hosted Community Edition)**: Unlimited content and users when self-hosting; Strapi Cloud has no cloud free plan or cloud trial, but includes a **30-day trial** for self-hosted Enterprise features |
+| **[Prismic](https://prismic.io/)** | **~ Valuation** (~ ARR / .4M funding) | API-first Headless (Slice Machine) | Starts at **/mo** (Starter Plan for up to 3 users) | **Free forever plan**: 1 user seat, 2 locales, 100 GB CDN bandwidth/month, unlimited API requests, and Slice Machine visual editor access |
+| **[CloudCannon](https://cloudcannon.com/)** | **~ Valuation** (~.5M ARR /  funding) | Git-based CMS (Direct Git commits) | Starts at **/mo** (billed annually) or **/mo** (Standard Plan) | **21-day free trial**: Full Standard Plan features, unlimited test sites on .cloudvent.net domains, no credit card required |
+| **[TinaCMS (TinaCloud)](https://tina.io/)** | **~ Valuation** (SSW Group backing / Open-core) | Git-based CMS (GraphQL + Git sync) | Starts at **/mo** (Team Plan) | **Free forever plan**: Up to 2 users, 500 assets/month, real-time visual editing, and Git sync |
 
 ## Open-Source GitHub Projects
 

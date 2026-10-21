@@ -59,43 +59,37 @@ The global Headless and Git-Based CMS market is estimated between **.2B and .9B*
 
 ## Open-Source GitHub Projects
 
+Curated list of active, open-source Git-based content management systems, sorted descending by GitHub stargazers count:
 
+- **[Decap CMS (formerly Netlify CMS)](https://github.com/decaporg/decap-cms)** [![GitHub stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers)  
+  The established open-source Git-based CMS standard. A single-page React app that provides a clean content authoring UI on top of GitHub, GitLab, or Bitbucket. Commits Markdown, JSON, and YAML directly to your repository. **Drop-in installation**: add an HTML entry point and YAML config to your static site's /admin route. Works with any static site generator (Hugo, Jekyll, Eleventy, Gatsby, etc.). MIT licensed.
 
-- **[Decap CMS (formerly Netlify CMS)](https://github.com/decaporg/decap-cms)**  
+- **[TinaCMS](https://github.com/tinacms/tinacms)** [![GitHub stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers)  
+  Open-source Git-backed headless CMS delivering **in-context visual live editing**—authors edit text and media directly on the rendered page. Powered by a TypeScript schema-as-code configuration and a GraphQL content layer. Ideal for modern Next.js and React stacks. Apache 2.0 licensed.
 
-  The established open-source Git-based CMS. A React single-page app that provides a friendly editing UI on top of GitHub, GitLab, or Bitbucket. Content is committed directly to your repository as Markdown/JSON/YAML. **Drop-in installation**: add two files (an HTML entry point and a YAML config) to your site's `/admin` path . Works with any static site generator. **Status**: mature with 18,700+ GitHub stars, but development has slowed—Sveltia CMS emerged as a modern alternative addressing longstanding issues . MIT licensed. Best for teams already using Decap or Netlify CMS that want a stable, proven solution.
+- **[Statamic Core](https://github.com/statamic/cms)** [![GitHub stars](https://img.shields.io/github/stars/statamic/cms?style=social&color=white)](https://github.com/statamic/cms/stargazers)  
+  A powerful flat-file, Git-friendly CMS powered by PHP and Laravel. Content is saved as YAML front-matter files directly in your repository without requiring a relational database. Features a robust control panel, live preview, version control integration, and asset management.
 
+- **[Prose](https://github.com/prose/prose)** [![GitHub stars](https://img.shields.io/github/stars/prose/prose?style=social&color=white)](https://github.com/prose/prose/stargazers)  
+  A classic, lightweight web-based content editor specifically designed for managing Jekyll websites and Markdown documents hosted directly on GitHub. Connects via GitHub OAuth to provide a clean writing environment with live Markdown previews and syntax highlighting.
 
+- **[Pages CMS](https://github.com/pages-cms/pages-cms)** [![GitHub stars](https://img.shields.io/github/stars/pages-cms/pages-cms?style=social&color=white)](https://github.com/pages-cms/pages-cms/stargazers)  
+  A fast, GitHub-native Git-based CMS that requires zero build step or server setup. Offers a clean, minimal interface designed for personal blogs, documentation, and small business sites. Commits changes directly to your repository branches. MIT licensed.
 
-- **[Sveltia CMS](https://github.com/sveltia/sveltia-cms)**  
+- **[Outstatic](https://github.com/avitorio/outstatic)** [![GitHub stars](https://img.shields.io/github/stars/avitorio/outstatic?style=social&color=white)](https://github.com/avitorio/outstatic/stargazers)  
+  A Git-based headless CMS tailored for Next.js (App Router and Pages Router). Provides a full-featured dashboard, rich text editor, custom schema creation, and automatic commits to GitHub repositories without external databases or third-party cloud services. MIT licensed.
 
-  The de facto successor to Netlify/Decap CMS. A complete modern rewrite in Svelte, maintaining **full configuration compatibility** with Decap's `config.yml` while delivering significantly improved performance (smaller bundle, faster load), first-class i18n support, and a modern UX . Addresses 355+ issues that lingered in Decap. Framework-agnostic, works with Astro, Eleventy, Hugo, and any SSG. Self-hostable as a static single-page app. MIT licensed. **Growing adoption**: U.S. government agencies and 175+ sites migrated from Decap . Best for greenfield Git-based CMS projects and teams migrating from Decap seeking active maintenance.
+- **[Sveltia CMS](https://github.com/sveltia/sveltia-cms)** [![GitHub stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=social&color=white)](https://github.com/sveltia/sveltia-cms/stargazers)  
+  A modern, lightweight successor to Decap/Netlify CMS rebuilt from scratch in Svelte. Maintains **100% configuration compatibility** with Decap's config.yml while offering faster initial load times, built-in internationalization (i18n), and an improved mobile-friendly editing UX. Works statically with Astro, Hugo, Eleventy, and Vite. MIT licensed.
 
+- **[Jekyll Admin](https://github.com/jekyll/jekyll-admin)** [![GitHub stars](https://img.shields.io/github/stars/jekyll/jekyll-admin?style=social&color=white)](https://github.com/jekyll/jekyll-admin/stargazers)  
+  The official in-browser graphical interface plugin for Jekyll sites. Runs locally or in deployment environments to let content creators author posts, manage pages, upload media files, and update front matter with automated Git tracking. MIT licensed.
 
+- **[Keystatic](https://github.com/Thinkmill/keystatic)** [![GitHub stars](https://img.shields.io/github/stars/Thinkmill/keystatic?style=social&color=white)](https://github.com/Thinkmill/keystatic/stargazers)  
+  An open-source, Git-based content management framework by Thinkmill built for Next.js, Astro, and Remix. Allows structured content definition via TypeScript schemas with local filesystem development mode and cloud/GitHub sync for production publishing. MIT licensed.
 
-- **[TinaCMS](https://github.com/tinacms/tinacms)**  
-
-  Open-source Git-based CMS with **real-time visual editing**—editors see changes inline on the live page, not in a separate admin panel. Uses a GraphQL content API and TypeScript schema configuration. Apache 2.0 licensed. **Key trade-off**: requires Node.js in your project, which partially undoes Hugo's zero-Node simplicity—a significant consideration for Hugo users . Best for Next.js projects and teams that prioritize inline visual editing over minimal setup complexity.
-
-
-
-- **[Pages CMS](https://github.com/pages-cms/pages-cms)**  
-
-  A simple, free, GitHub-focused Git-based CMS. Minimal configuration, clean interface, and no build step required. Positioned as the simplest option for small projects and personal sites. Best for developers who want a lightweight editor without the full complexity of Decap or TinaCMS .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Spaceship CMS** — MDX content management for Astro sites with GitHub integration. Best for Astro-specific documentation and blog projects .
-
-- **FrontAid CMS** — Git-based CMS specifically for JSON files. Editors fill in content based on a defined data model, and changes are pushed to your Git repository . Best for structured data editing rather than prose-heavy content.
-
-- **Frameworks for building custom systems**: Start with **Sveltia CMS** for new Git-based projects—it offers Decap compatibility with active development. Use **Decap CMS** if you need maximum ecosystem maturity and existing documentation. Choose **TinaCMS** when inline visual editing is non-negotiable and you accept the Node.js dependency. Use **Pages CMS** for the simplest possible GitHub-based editing workflow.
-
-
+- **[Static CMS](https://github.com/StaticJsCMS/static-cms)** [![GitHub stars](https://img.shields.io/github/stars/StaticJsCMS/static-cms?style=social&color=white)](https://github.com/StaticJsCMS/static-cms/stargazers)  
+  A community-maintained, modernized fork of Netlify CMS. Offers a drop-in single-page application admin interface with TypeScript support, enhanced collection configurations, and native GitHub/GitLab/Bitbucket authentication. MIT licensed.
 
 ## How to Contribute
 

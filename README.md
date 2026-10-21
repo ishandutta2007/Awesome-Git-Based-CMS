@@ -4,7 +4,7 @@
 
 # 🚀 Awesome Git-Based CMS
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Based-CMS?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Git-Based-CMS/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Git-Based-CMS/blob/main/CONTRIBUTING.md) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) [![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Based-CMS?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Git-Based-CMS/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Git-Based-CMS/blob/main/CONTRIBUTING.md) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 A curated directory and ecosystem guide of the best **Git-Based CMS**, **Flat-File CMS**, and **Headless Content Management Systems** for Jamstack, static site generators (Astro, Next.js, Hugo, Jekyll, Eleventy, Nuxt, SvelteKit), and GitOps documentation workflows.
 
@@ -73,34 +73,34 @@ Curated list of commercial and managed SaaS platforms supporting Git-native work
 
 Curated list of active, open-source Git-based content management systems, sorted descending by GitHub stargazers count:
 
-- 👑 **[Decap CMS (formerly Netlify CMS)](https://github.com/decaporg/decap-cms)** [![GitHub stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers)  
+- 👑 **[Decap CMS (formerly Netlify CMS)](https://github.com/decaporg/decap-cms)** [![GitHub_Stars](https://img.shields.io/github/stars/decaporg/decap-cms?style=social&color=white)](https://github.com/decaporg/decap-cms/stargazers)  
   The established open-source Git-based CMS standard. A single-page React app that provides a clean content authoring UI on top of GitHub, GitLab, or Bitbucket. Commits Markdown, JSON, and YAML directly to your repository. **Drop-in installation**: add an HTML entry point and YAML config to your static site's `/admin` route. Works with any static site generator (Hugo, Jekyll, Eleventy, Gatsby, Astro). MIT licensed.
 
-- ✨ **[TinaCMS](https://github.com/tinacms/tinacms)** [![GitHub stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers)  
+- ✨ **[TinaCMS](https://github.com/tinacms/tinacms)** [![GitHub_Stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers)  
   Open-source Git-backed headless CMS delivering **in-context visual live editing**—authors edit text and media directly on the rendered page. Powered by a TypeScript schema-as-code configuration and a GraphQL content layer. Ideal for modern Next.js and React stacks. Apache 2.0 licensed.
 
-- 💎 **[Statamic Core](https://github.com/statamic/cms)** [![GitHub stars](https://img.shields.io/github/stars/statamic/cms?style=social&color=white)](https://github.com/statamic/cms/stargazers)  
+- 💎 **[Statamic Core](https://github.com/statamic/cms)** [![GitHub_Stars](https://img.shields.io/github/stars/statamic/cms?style=social&color=white)](https://github.com/statamic/cms/stargazers)  
   A powerful flat-file, Git-friendly CMS powered by PHP and Laravel. Content is saved as YAML front-matter files directly in your repository without requiring a relational database. Features a robust control panel, live preview, version control integration, and asset management.
 
-- ✍️ **[Prose](https://github.com/prose/prose)** [![GitHub stars](https://img.shields.io/github/stars/prose/prose?style=social&color=white)](https://github.com/prose/prose/stargazers)  
+- ✍️ **[Prose](https://github.com/prose/prose)** [![GitHub_Stars](https://img.shields.io/github/stars/prose/prose?style=social&color=white)](https://github.com/prose/prose/stargazers)  
   A classic, lightweight web-based content editor specifically designed for managing Jekyll websites and Markdown documents hosted directly on GitHub. Connects via GitHub OAuth to provide a clean writing environment with live Markdown previews and syntax highlighting.
 
-- 📄 **[Pages CMS](https://github.com/pages-cms/pages-cms)** [![GitHub stars](https://img.shields.io/github/stars/pages-cms/pages-cms?style=social&color=white)](https://github.com/pages-cms/pages-cms/stargazers)  
+- 📄 **[Pages CMS](https://github.com/pages-cms/pages-cms)** [![GitHub_Stars](https://img.shields.io/github/stars/pages-cms/pages-cms?style=social&color=white)](https://github.com/pages-cms/pages-cms/stargazers)  
   A fast, GitHub-native Git-based CMS that requires zero build step or server setup. Offers a clean, minimal interface designed for personal blogs, documentation, and small business sites. Commits changes directly to your repository branches. MIT licensed.
 
-- 🚀 **[Outstatic](https://github.com/avitorio/outstatic)** [![GitHub stars](https://img.shields.io/github/stars/avitorio/outstatic?style=social&color=white)](https://github.com/avitorio/outstatic/stargazers)  
+- 🚀 **[Outstatic](https://github.com/avitorio/outstatic)** [![GitHub_Stars](https://img.shields.io/github/stars/avitorio/outstatic?style=social&color=white)](https://github.com/avitorio/outstatic/stargazers)  
   A Git-based headless CMS tailored for Next.js (App Router and Pages Router). Provides a full-featured dashboard, rich text editor, custom schema creation, and automatic commits to GitHub repositories without external databases or third-party cloud services. MIT licensed.
 
-- ⚡ **[Sveltia CMS](https://github.com/sveltia/sveltia-cms)** [![GitHub stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=social&color=white)](https://github.com/sveltia/sveltia-cms/stargazers)  
+- ⚡ **[Sveltia CMS](https://github.com/sveltia/sveltia-cms)** [![GitHub_Stars](https://img.shields.io/github/stars/sveltia/sveltia-cms?style=social&color=white)](https://github.com/sveltia/sveltia-cms/stargazers)  
   A modern, lightweight successor to Decap/Netlify CMS rebuilt from scratch in Svelte. Maintains **100% configuration compatibility** with Decap's `config.yml` while offering faster initial load times, built-in internationalization (i18n), and an improved mobile-friendly editing UX. Works statically with Astro, Hugo, Eleventy, and Vite. MIT licensed.
 
-- 🛠️ **[Jekyll Admin](https://github.com/jekyll/jekyll-admin)** [![GitHub stars](https://img.shields.io/github/stars/jekyll/jekyll-admin?style=social&color=white)](https://github.com/jekyll/jekyll-admin/stargazers)  
+- 🛠️ **[Jekyll Admin](https://github.com/jekyll/jekyll-admin)** [![GitHub_Stars](https://img.shields.io/github/stars/jekyll/jekyll-admin?style=social&color=white)](https://github.com/jekyll/jekyll-admin/stargazers)  
   The official in-browser graphical interface plugin for Jekyll sites. Runs locally or in deployment environments to let content creators author posts, manage pages, upload media files, and update front matter with automated Git tracking. MIT licensed.
 
-- 🔑 **[Keystatic](https://github.com/Thinkmill/keystatic)** [![GitHub stars](https://img.shields.io/github/stars/Thinkmill/keystatic?style=social&color=white)](https://github.com/Thinkmill/keystatic/stargazers)  
+- 🔑 **[Keystatic](https://github.com/Thinkmill/keystatic)** [![GitHub_Stars](https://img.shields.io/github/stars/Thinkmill/keystatic?style=social&color=white)](https://github.com/Thinkmill/keystatic/stargazers)  
   An open-source, Git-based content management framework by Thinkmill built for Next.js, Astro, and Remix. Allows structured content definition via TypeScript schemas with local filesystem development mode and cloud/GitHub sync for production publishing. MIT licensed.
 
-- 📦 **[Static CMS](https://github.com/StaticJsCMS/static-cms)** [![GitHub stars](https://img.shields.io/github/stars/StaticJsCMS/static-cms?style=social&color=white)](https://github.com/StaticJsCMS/static-cms/stargazers)  
+- 📦 **[Static CMS](https://github.com/StaticJsCMS/static-cms)** [![GitHub_Stars](https://img.shields.io/github/stars/StaticJsCMS/static-cms?style=social&color=white)](https://github.com/StaticJsCMS/static-cms/stargazers)  
   A community-maintained, modernized fork of Netlify CMS. Offers a drop-in single-page application admin interface with TypeScript support, enhanced collection configurations, and native GitHub/GitLab/Bitbucket authentication. MIT licensed.
 
 ---
@@ -138,7 +138,7 @@ Contributions are welcome! To add or update an entry:
 1. 🍴 Fork the repository.
 2. 📝 Add your tool to `README.md` in the appropriate section.
 3. 🔗 Ensure all links are functional, factual, and follow the established tabular or list formatting.
-4. ⭐ If submitting an open-source project, include its GitHub star badge (`style=social&color=white`) linking to its stargazers page.
+4. ⭐ If submitting an open-source project, include its GitHub Stars_Badge (`style=social&color=white`) linking to its stargazers page.
 5. 🚀 Submit a Pull Request with a clear description of your addition.
 
 ---

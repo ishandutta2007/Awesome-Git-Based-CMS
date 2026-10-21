@@ -2,7 +2,9 @@
   <img src="assets/banner.svg" alt="Awesome Git-Based CMS Banner" width="100%" />
 </p>
 
-# 🚀 Awesome Git-Based CMS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Based-CMS?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Git-Based-CMS/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Git-Based-CMS/blob/main/CONTRIBUTING.md)
+# 🚀 Awesome Git-Based CMS
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Based-CMS?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Git-Based-CMS/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Git-Based-CMS/blob/main/CONTRIBUTING.md)
 
 > 🌟 A curated directory and ecosystem guide of the best **Git-Based CMS**, **Flat-File CMS**, and **Headless Content Management Systems** for Jamstack, static site generators (Astro, Next.js, Hugo, Jekyll, Eleventy, Nuxt, SvelteKit), and GitOps documentation workflows.
 

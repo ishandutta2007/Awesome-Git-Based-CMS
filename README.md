@@ -21,6 +21,8 @@ A **Git-based CMS** provides a user-friendly editorial dashboard on top of a Git
 - [🏗️ Architecture Guide: Git-Based vs. API-First](#️-architecture-guide-git-based-vs-api-first)
 - [🎯 How to Choose the Right CMS](#-how-to-choose-the-right-cms)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#--star-history)
 - [📜 License & Disclaimer](#-license--disclaimer)
 
 ---
@@ -138,6 +140,18 @@ Contributions are welcome! To add or update an entry:
 3. 🔗 Ensure all links are functional, factual, and follow the established tabular or list formatting.
 4. ⭐ If submitting an open-source project, include its GitHub star badge (`style=social&color=white`) linking to its stargazers page.
 5. 🚀 Submit a Pull Request with a clear description of your addition.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting the **Awesome Git-Based CMS** repository! If you find this curated directory and comparison helpful:
+- ⭐ **Star this repository** to show your appreciation and make it easier for fellow developers to find.
+- 🍴 **Fork and contribute** new tools, benchmarks, and updates via Pull Requests.
+- 📢 **Share** this resource with your colleagues, engineering teams, and Jamstack communities.
+- ☕ **Buy me a coffee**: Support ongoing curation and maintenance via the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" /></a>
 
 ---
 

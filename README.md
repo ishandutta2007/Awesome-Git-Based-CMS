@@ -30,6 +30,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -39,6 +40,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 
+
+## Sector Overview & Market Dynamics
+
+The global Headless and Git-Based CMS market is estimated between **.2B and .9B**, growing rapidly at a CAGR of **~18% to 22%** toward a projected – by the mid-2030s. The sector is **highly fragmented** rather than concentrated (*winner-take-all*), marked by fierce competition among enterprise API clouds (Contentful, Sanity), open-source database-backed frameworks (Strapi), and developer-centric Git-native static site workflows (CloudCannon, TinaCMS, Decap, Keystatic). Most enterprise engineering teams maintain two or more distinct CMS solutions simultaneously to address specific editorial and engineering workflows.
 
 ## SaaS/Hosted Platforms
 

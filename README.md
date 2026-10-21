@@ -141,6 +141,11 @@ Contributions are welcome! To add or update an entry:
 
 ---
 
+##  Star History
+[![Star History Chart](https://ttar-history.dera.page/svg?repos=ishandutta2007/Awesome-Git-Based-CMS&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Git-Based-CMS&type=date&legend=top-left)
+
+---
+
 ## 📜 License & Disclaimer
 
 - Distributed under the [MIT License](LICENSE).
